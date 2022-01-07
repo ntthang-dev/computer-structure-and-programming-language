@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "*.asm": "platformio-debug.asm",
-        "test_binary_to_decimal": "c"
-    }
-}
